@@ -1,0 +1,8 @@
+build
+*.o
+*.swp
+tags
+cscope.*
+main.bin
+main.elf
+main.list
